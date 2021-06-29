@@ -1,0 +1,245 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 16300 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Unity Projects/4231 Final Project - Nekropolis
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52035
+Successfully changed project path to: E:/Unity Projects/4231 Final Project - Nekropolis
+E:/Unity Projects/4231 Final Project - Nekropolis
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 24.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Unity Projects/4231 Final Project - Nekropolis/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   
+    VRAM:     8088 MB
+    Driver:   27.21.14.6627
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56488
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002145 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 24.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.956 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002068 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.864 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.0 MB.
+System memory in use after: 65.1 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1825.
+Total: 1.860800 ms (FindLiveObjects: 0.189400 ms CreateObjectMapping: 0.029500 ms MarkObjects: 1.553700 ms  DeleteObjects: 0.086800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/ProjectileMove.cs
+  artifactKey: Guid(0573376db7bd10e4995016048aa52b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectileMove.cs using Guid(0573376db7bd10e4995016048aa52b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ac59a16268bf5c27315e99a69815904') in 0.027765 seconds
+  Import took 0.030025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.773637 seconds.
+  path: Assets/SpellShooter.cs
+  artifactKey: Guid(56e29e4616b555e4aa766347b7914f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpellShooter.cs using Guid(56e29e4616b555e4aa766347b7914f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91abafb7f62b41ffe2238efe4867a254') in 0.005339 seconds
+  Import took 0.007594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020338 seconds.
+  path: Assets/SpellShooter.cs
+  artifactKey: Guid(56e29e4616b555e4aa766347b7914f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpellShooter.cs using Guid(56e29e4616b555e4aa766347b7914f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91abafb7f62b41ffe2238efe4867a254') in 0.001827 seconds
+  Import took 0.003965 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002013 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.770 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1385 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.0 MB.
+System memory in use after: 65.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1828.
+Total: 1.957800 ms (FindLiveObjects: 0.153300 ms CreateObjectMapping: 0.042200 ms MarkObjects: 1.702900 ms  DeleteObjects: 0.058400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 172.225007 seconds.
+  path: Assets/SpellShooter.cs
+  artifactKey: Guid(56e29e4616b555e4aa766347b7914f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpellShooter.cs using Guid(56e29e4616b555e4aa766347b7914f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35a5b6462f1bdea48f15721be2ba945b') in 0.004185 seconds
+  Import took 0.006363 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002001 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.775 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1385 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.0 MB.
+System memory in use after: 65.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1831.
+Total: 1.897800 ms (FindLiveObjects: 0.169000 ms CreateObjectMapping: 0.036300 ms MarkObjects: 1.631600 ms  DeleteObjects: 0.060200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.356101 seconds.
+  path: Assets/SpellShooter.cs
+  artifactKey: Guid(56e29e4616b555e4aa766347b7914f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpellShooter.cs using Guid(56e29e4616b555e4aa766347b7914f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29232ce1df4099753493a431dcd54a3b') in 0.004024 seconds
+  Import took 0.006209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.250299 seconds.
+  path: Assets/SpellShooter.cs
+  artifactKey: Guid(56e29e4616b555e4aa766347b7914f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpellShooter.cs using Guid(56e29e4616b555e4aa766347b7914f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29232ce1df4099753493a431dcd54a3b') in 0.001871 seconds
+  Import took 0.003948 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002031 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.745 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1385 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.0 MB.
+System memory in use after: 65.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1834.
+Total: 1.703600 ms (FindLiveObjects: 0.146500 ms CreateObjectMapping: 0.031000 ms MarkObjects: 1.469600 ms  DeleteObjects: 0.055800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002188 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.882 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1385 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.0 MB.
+System memory in use after: 65.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1837.
+Total: 2.200500 ms (FindLiveObjects: 0.226500 ms CreateObjectMapping: 0.052600 ms MarkObjects: 1.833900 ms  DeleteObjects: 0.086100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002400 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.960 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1385 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.0 MB.
+System memory in use after: 65.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1840.
+Total: 2.346700 ms (FindLiveObjects: 0.212900 ms CreateObjectMapping: 0.034200 ms MarkObjects: 2.031100 ms  DeleteObjects: 0.067600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002851 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.752 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1385 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.0 MB.
+System memory in use after: 65.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1843.
+Total: 1.974000 ms (FindLiveObjects: 0.191000 ms CreateObjectMapping: 0.035400 ms MarkObjects: 1.679000 ms  DeleteObjects: 0.067200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1277.206696 seconds.
+  path: Assets/SpellShooter.cs
+  artifactKey: Guid(56e29e4616b555e4aa766347b7914f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpellShooter.cs using Guid(56e29e4616b555e4aa766347b7914f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f7dbcbdfbd770200f4de517e341d247') in 0.003831 seconds
+  Import took 0.005992 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
